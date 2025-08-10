@@ -42,13 +42,4 @@ Eğer projeyi beğendiyseniz ⭐ vererek destek olabilirsiniz! 😊
 
 <h1>DEMO 🎬 </h1>
 
-<<<<<<< HEAD
-
-
-
-
-# NetflixxClone
-=======
 ![](/dem.gif)
->>>>>>> 6dbf8ee (..)
-# NetflixClone
